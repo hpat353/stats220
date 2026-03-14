@@ -18,7 +18,9 @@
 3. Improve my coding skills 👩‍💻
 
    
-A meme that captures how I currently feel about my university studies is![](https://media.tenor.com/2GNp8LP36NAAAAAi/grind-grinding.gif)
+A meme that captures how I currently feel about my university studies is
+
+![](https://media.tenor.com/2GNp8LP36NAAAAAi/grind-grinding.gif)
 
 [Click here for a surprise](https://i.giphy.com/kZqbBT64ECtjy.webp) 🎀
 
