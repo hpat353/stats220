@@ -27,4 +27,4 @@ A meme that captures how I currently feel about my university studies is
 A dangerously addictive game: [Cupcakes 2048](https://cupcakes2048.com/) 🧁
 
 
-Check out my [Motivational Meme](https://hpat353.github.io/stats220/motivation.html)! 
+Check out my [Motivational Meme](https://hpat353.github.io/stats220/motivation.html) ! 
