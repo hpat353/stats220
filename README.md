@@ -25,3 +25,6 @@ A meme that captures how I currently feel about my university studies is
 [Click here for a surprise](https://i.giphy.com/kZqbBT64ECtjy.webp) 🎀
 
 A dangerously addictive game: [Cupcakes 2048](https://cupcakes2048.com/) 🧁
+
+
+Check out my [Motivational Meme](https://hpat353.github.io/stats220/motivation.html)! 
