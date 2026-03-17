@@ -15,7 +15,7 @@
 
 1. Learn how to use GitHub ☆
 2. Create cool projects 😎
-3. Improve my coding skills 👩‍💻
+3. Develop my coding skills 👩‍💻
 
    
 A meme that captures how I currently feel about my university studies is
