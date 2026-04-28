@@ -7,7 +7,7 @@
 #### *A little about me:*
 
 - I am undertaking a degree in Business Analytics and IT Management 
-- I am taking STATS 220 because **I 🩷 STATS!!!**
+- I am taking STATS 220 because **I 🩷 STATS and R is my favourite programming language!!!**
 - I am interested in learning about programming and the use of data technologies in data analysis. 
 
 
